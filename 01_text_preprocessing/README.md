@@ -1,0 +1,12 @@
+Text pre-processing
+-> Lowercasing
+-> HTML Tag Removal
+-> URL Removal
+-> Punctuation Removal
+-> Chat word 
+-> Spelling correction
+-> Stopword removal
+-> Handling Emojis
+-> Tokenization 
+-> Stemming
+-> Lemmatization 
