@@ -1,0 +1,1 @@
+This repository is to learn text pre-processing for NLP works
